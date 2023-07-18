@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on: I'm open to collaborating on interesting open-source projects related to web development or AI.
 
-📫 How to reach me: You can reach me through my GitHub profile or by email at kevin42500@example.com.
+📫 How to reach me: You can reach me through my GitHub profile or by email at bettkevin965@gmail.com
