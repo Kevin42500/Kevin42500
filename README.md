@@ -1,4 +1,6 @@
-👋 Hi, I’m @Kevin42500: Hello! I'm a software engineer with a passion for coding and problem-solving.
+👋 Hi, I’m @Kevin42500:
+
+ Hello! I'm a software engineer with a passion for coding and problem-solving.
 
 👀 I’m interested in: I'm interested in web development, artificial intelligence, and exploring new technologies.
 
