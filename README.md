@@ -11,6 +11,10 @@
 📫 How to reach me: You can reach me through my GitHub profile or by email at bettkevin965@gmail.com
 
 
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin42500" alt="kevin42500" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kevoo965" target="blank"><img src="https://img.shields.io/twitter/follow/kevoo965?logo=twitter&style=for-the-badge" alt="kevoo965" /></a> </p>
